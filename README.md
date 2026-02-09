@@ -1,4 +1,4 @@
-
+<h4 align="left">🖐️ My social media</h4>
 <div align="left">
   <a href="https://www.youtube.com/@nektivo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h3 align="left">Hello World 🖐️</h3>
+
 <br>
 <h4 align="left">💻  About Me</h4>
 <p align="left">Hello! I'm a Informatics Engineer Student passionate about software engineering and frontend development.<br>This repository contains my projects, experiments, and learning resources as I grow my skills in building clean, functional, and user-friendly web applications.</p>
