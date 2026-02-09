@@ -1,4 +1,4 @@
-<img src= ".github/img/pixel mario Discord Banner.gif">
+<img src= ".github/img/Tired Now.gif">
 <br>
 <h4 align="left">🖐️ My social media</h4>
 <div align="left">
