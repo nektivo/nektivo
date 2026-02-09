@@ -1,5 +1,5 @@
-![header](.github/img/header.png)
-
+<img src= ".github/img/header.png">
+<br>
 <h4 align="left">🖐️ My social media</h4>
 <div align="left">
   <a href="https://www.youtube.com/@nektivo" target="_blank">
@@ -18,6 +18,7 @@
 <br>
 <h4 align="left">💻  About Me</h4>
 <p align="left">Hello! I'm a Informatics Engineer Student passionate about software engineering and frontend development.<br>This repository contains my projects, experiments, and learning resources as I grow my skills in building clean, functional, and user-friendly web applications.</p>
+<br>
 <h4 align="left">⚙️ I code with</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -36,6 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+<br>
 <h4 align="left">🔥   My Activity</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nektivo/nektivo/output/pacman-contribution-graph-dark.svg">
