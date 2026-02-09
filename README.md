@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-<div align="center">
+
+<div align="left">
   <a href="https://www.youtube.com/@nektivo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
@@ -15,10 +13,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-<div align="center">
-  <img src="https://count.getloli.com/@:nektivo?theme=3d-num&padding=7&offset=0&scale=0.9&align=top&pixelated=1&darkmode=auto"  />
-</div>
-<h1 align="center">Hello World 🖐️</h1>
+
+<h3 align="left">Hello World 🖐️</h3>
+<br>
 <h4 align="left">💻  About Me</h4>
 <p align="left">Hello! I'm a Informatics Engineer Student passionate about software engineering and frontend development.<br>This repository contains my projects, experiments, and learning resources as I grow my skills in building clean, functional, and user-friendly web applications.</p>
 <h4 align="left">⚙️ I code with</h4>
