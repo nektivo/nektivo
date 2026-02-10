@@ -1,4 +1,4 @@
-<img src= ".github/img/header1.jpeg">
+<img src= ".github/img/github header.png">
 <br>
 <h4 align="left">🖐️ My social media</h4>
 <div align="left">
