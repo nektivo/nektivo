@@ -1,12 +1,8 @@
 <img src= ".github/img/header github profile.png">
 
-**`Digital Genz (Developer | Content Creator)`**
+**`Who am i? (Developer | Creator)`**
 
 I am a _Computer Science student_ - who spends my days coding as a full-stack developer and occasionally creating content about the world of IT. My GitHub is a record of my learning journey, from college assignments and personal projects to random experiments. The content I create is my way of sharing stories and insights with my fellow learners. I am still growing, but I believe that sharing is beautiful. Let's connect and discuss!
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 <div align="left">
   <a href="https://www.youtube.com/@nektivo?sub_confirmation=1">
@@ -21,7 +17,7 @@ I am a _Computer Science student_ - who spends my days coding as a full-stack de
 
 ---
 
-### 💻 Leanguage and Tools
+### <i class="fa-solid fa-laptop-code"></i>・Leanguage and Tools
 
  <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -38,7 +34,7 @@ I am a _Computer Science student_ - who spends my days coding as a full-stack de
 
 #
 
-### 👤 Connect with me
+### <i class="fa-solid fa-user-secret"></i>・Lets Connect
 
 <div align="left">
   <a href="https://discord.gg/EuKyHngPnN" target="_blank">
@@ -56,10 +52,18 @@ I am a _Computer Science student_ - who spends my days coding as a full-stack de
 
 #
 
-### 🕹️ My Activity
+### <i class="fa-solid fa-quote-left"></i>・Dev Quotes
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+#
+
+### <i class="fa-solid fa-chart-simple"></i>・Statistics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nektivo/nektivo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nektivo/nektivo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nektivo/nektivo/output/pacman-contribution-graph.svg">
 </picture>
+
+---
