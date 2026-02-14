@@ -1,9 +1,13 @@
 <img src= ".github/img/header github profile.png">
+
 **`Digital Genz (Developer | Content Creator)`**
+
 I am a *Computer Science student* - who spends my days coding as a full-stack developer and occasionally creating content about the world of IT. My GitHub is a record of my learning journey, from college assignments and personal projects to random experiments. The content I create is my way of sharing stories and insights with my fellow learners. I am still growing, but I believe that sharing is beautiful. Let's connect and discuss!
+
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <div align="left">
   <a href="https://www.youtube.com/@nektivo?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC01uMVViVQo_2EHxiiX18zQ?color=%23E05044&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
@@ -14,7 +18,9 @@ I am a *Computer Science student* - who spends my days coding as a full-stack de
   <a href="https://github.com/nektivo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nektivo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
+
 ---
+
 <h4 align="left">💻 Leanguage and Tools </h4>
  <div align="left">
  <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -30,7 +36,11 @@ I am a *Computer Science student* - who spends my days coding as a full-stack de
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
+
 # 
+
+---
+
 <h4 align="left">👤 I'm also here</h4>
 <div align="left">
   <a href="https://discord.gg/EuKyHngPnN" target="_blank">
@@ -45,7 +55,9 @@ I am a *Computer Science student* - who spends my days coding as a full-stack de
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
+
 #
+
 <h4 align="left">🕹️ Activity</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nektivo/nektivo/output/pacman-contribution-graph-dark.svg">
