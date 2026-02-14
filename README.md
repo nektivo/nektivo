@@ -2,7 +2,7 @@
 
 **`Digital Genz (Developer | Content Creator)`**
 
-I am a *Computer Science student* - who spends my days coding as a full-stack developer and occasionally creating content about the world of IT. My GitHub is a record of my learning journey, from college assignments and personal projects to random experiments. The content I create is my way of sharing stories and insights with my fellow learners. I am still growing, but I believe that sharing is beautiful. Let's connect and discuss!
+I am a _Computer Science student_ - who spends my days coding as a full-stack developer and occasionally creating content about the world of IT. My GitHub is a record of my learning journey, from college assignments and personal projects to random experiments. The content I create is my way of sharing stories and insights with my fellow learners. I am still growing, but I believe that sharing is beautiful. Let's connect and discuss!
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -37,9 +37,7 @@ I am a *Computer Science student* - who spends my days coding as a full-stack de
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-# 
-
----
+#
 
 <h4 align="left">👤 I'm also here</h4>
 <div align="left">
